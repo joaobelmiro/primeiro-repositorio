@@ -1,0 +1,78 @@
+#Lendas da DC
+Mulher Maravilha: Sementes de guerra |X|
+Batman: Criaturas noturnas	     | |
+Mulher Gato: Ladra de almas	     | |
+Superman: Daybraker		     | |
+
+#Alien
+Surgido das sombras		     |X|
+Mar de angústia			     | |
+Rio de sofrimento		     | |
+
+#Paper Girls
+Paper Girls 1			    |X|
+Paper Girls 2			    |X|
+Paper Girls 3			    |X|
+Paper Girls 4			    | |
+Paper Girls 5			    | |
+Paper Girls 6			    | |
+
+#Assassin's Creed
+Renascença (1476)		    |X|
+Irmandade (entre 1480 e 1490)	    |X|
+Revelações (por volta de 1500)	    | |
+A cruzada secreta (1191)	    | |
+Renegado (entre 1770 e 1780)	    | |
+Bandeira Negra (entre 1715 e 1718)  | |
+Unity (1789)			    | |
+Submundo (1862)			    | |
+
+#Lendas do universo DC: Os novos Titãs
+Vol. 01				    |X|
+Vol. 02				    |X|
+Vol. 03				    |X|
+Vol. 04				    |X|
+Vol. 05				    |X|
+Vol. 06				    |X|
+Vol. 07				    |X|
+Vol. 08				    |X|
+Vol. 09				    |X|
+Vol. 10				    | |
+Vol. 11				    | |
+
+CmBWiNx38PyHTQr_3SaTDA
+
+Triangulo do medo
+Buscando
+Albatroz
+
+{
+Darling in the franxx - finalizada
+Monster Musume no Iru Nichijou - finalizada
+konosuba - finalizada
+Ranma 1/2 - finalizada
+shimoneta - finalizada
+Kobayashi-san Chi no Maid Dragon - finalizada
+Interviews with monster girls - finalizada
+one-punchman - finalizada
+nein genesis evangelion - finalizada
+Tonikaku kawaii - finalizada
+Cells at works - finalizada
+}
+{
+re:zero - assistindo(S02E01)
+to love ru - assistindo()
+Inuyasha - assistindo()
+Yu-gi-oh - assistindo(S02E01)
+Uzaki-chan wa Asobitai - assistindo(Ep02)
+Ultraman R/B - assistindo(Ep02)
+Tejina-senpai - assistindo(Ep08)
+}
+{
+boku no hero - começar
+cowboy beboop - começar
+}
+
+
+> copy /b _____.png/jpg ________.txt  _________.png/jpg
+> copy /b ______.png/.jpg _________.rar __________.png/jpg
